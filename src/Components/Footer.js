@@ -56,7 +56,7 @@ const Footer = () => {
               400706
             </p>
 
-            <p className="mt-3 text-sm text-gray-400">📞 +91 8689970832</p>
+            <p className="mt-3 text-sm text-gray-400">📞 +91 9137952417</p>
           </div>
         </div>
 
